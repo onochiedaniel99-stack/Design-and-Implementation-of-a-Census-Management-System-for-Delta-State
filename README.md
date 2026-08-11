@@ -158,7 +158,7 @@ This application is hosted and accessible at:
 ## 📞 Contact
 
 **Maintainer:** Your Name
-- GitHub: [@yourusername](https://github.com/onochiedaniel99)
+- GitHub: [@onochiedaniel99-stack](https://github.com/onochiedaniel99-stack)
 - Email: onochiedaniel99@gmail.com
 
 ---
