@@ -67,7 +67,7 @@ CREATE DATABASE deltacensus;
 Update `config/database.php`:
 ```php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'deltacensus');
+define('DB_NAME', 'deltacensus3');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 ```
