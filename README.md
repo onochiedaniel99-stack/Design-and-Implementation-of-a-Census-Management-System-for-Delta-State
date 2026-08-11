@@ -59,7 +59,7 @@ cd delta-census
 
 ### 2. Setup Database
 ```sql
-CREATE DATABASE deltacensus;
+CREATE DATABASE deltacensus3;
 -- Import database/schema.sql
 ```
 
