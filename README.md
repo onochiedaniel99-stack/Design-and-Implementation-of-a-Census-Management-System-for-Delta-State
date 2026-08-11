@@ -53,7 +53,7 @@ deltacensus/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/onochiedaniel99/Design-and-Implementation-of-a-Census-Management-System-for-Delta-State.git
+git clone https://github.com/onochiedaniel99-stack/Design-and-Implementation-of-a-Census-Management-System-for-Delta-State.git
 cd delta-census
 ```
 
