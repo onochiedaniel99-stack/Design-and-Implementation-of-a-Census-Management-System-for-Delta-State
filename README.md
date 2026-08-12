@@ -9,7 +9,7 @@ A secure, mobile-first web application for census data collection across Delta S
 
 **Test Credentials:**
 - Username: `Admin`
-- Password: `Danito`
+- Password: `danito26`
 
 > ⚠️ **Note**: This is a demonstration instance. Please use responsibly.
 
